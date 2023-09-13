@@ -1,0 +1,6 @@
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\pruebasCIL\bin\Debug\pruebasCIL.exe.config
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\pruebasCIL\bin\Debug\pruebasCIL.exe
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\pruebasCIL\bin\Debug\pruebasCIL.pdb
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\pruebasCIL\obj\Debug\pruebasCIL.csprojResolveAssemblyReference.cache
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\pruebasCIL\obj\Debug\pruebasCIL.exe
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\pruebasCIL\obj\Debug\pruebasCIL.pdb

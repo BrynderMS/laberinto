@@ -1,0 +1,10 @@
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba\bin\Debug\prueba.exe
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.Properties.Resources.resources
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.csproj.GenerateResource.Cache
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.exe
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.pdb
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.csproj.AssemblyReference.cache
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache

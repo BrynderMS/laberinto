@@ -1,0 +1,8 @@
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba2\bin\Release\prueba2.exe.config
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba2\bin\Release\prueba2.exe
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba2\bin\Release\prueba2.pdb
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba2\obj\Release\prueba2.Form1.resources
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba2\obj\Release\prueba2.Properties.Resources.resources
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba2\obj\Release\prueba2.csproj.GenerateResource.Cache
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba2\obj\Release\prueba2.exe
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\prueba2\obj\Release\prueba2.pdb

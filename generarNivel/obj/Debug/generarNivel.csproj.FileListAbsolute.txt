@@ -1,0 +1,9 @@
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\generarNivel\bin\Debug\generarNivel.exe.config
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\generarNivel\bin\Debug\generarNivel.exe
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\generarNivel\bin\Debug\generarNivel.pdb
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\generarNivel\obj\Debug\generarNivel.csprojResolveAssemblyReference.cache
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\generarNivel\obj\Debug\generarNivel.Form1.resources
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\generarNivel\obj\Debug\generarNivel.Properties.Resources.resources
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\generarNivel\obj\Debug\generarNivel.csproj.GenerateResource.Cache
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\generarNivel\obj\Debug\generarNivel.exe
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\generarNivel\obj\Debug\generarNivel.pdb

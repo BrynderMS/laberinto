@@ -1,0 +1,14 @@
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\bin\Debug\wpfpruebas.exe.config
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\bin\Debug\wpfpruebas.exe
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\bin\Debug\wpfpruebas.pdb
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\obj\Debug\wpfpruebas.csprojResolveAssemblyReference.cache
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\obj\Debug\MainWindow.g.cs
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\obj\Debug\App.g.cs
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\obj\Debug\wpfpruebas_MarkupCompile.cache
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\obj\Debug\wpfpruebas_MarkupCompile.lref
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\obj\Debug\MainWindow.baml
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\obj\Debug\wpfpruebas.g.resources
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\obj\Debug\wpfpruebas.Properties.Resources.resources
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\obj\Debug\wpfpruebas.csproj.GenerateResource.Cache
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\obj\Debug\wpfpruebas.exe
+C:\Users\msanchez\Documents\Visual Studio 2015\Projects\prueba\wpfpruebas\obj\Debug\wpfpruebas.pdb
